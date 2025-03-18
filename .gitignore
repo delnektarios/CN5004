@@ -1,0 +1,17 @@
+# Ignore all image types
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.svg
+*.tif
+*.tiff
+*.ico
+*.webp
+*.eps
+*.raw
+*.cr2
+# Add more image extensions if needed
+/input_img/
+/ouput_img/
